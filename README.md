@@ -4,13 +4,15 @@ A collection of Python scripts demonstrating basic image processing operations u
 
 ## Table of Contents
   - [Installation](#Installation)
-  - [Reading & displaying image file](#Basic_Inage_Loading_&_Display)
-  - [Converting color of image]
-  - [Saving image file]
+  - [BasicImageLoading](#BasicImageLoading)
+  - [ConvertImageColor]
+  - [SaveImage]
 
 ### Installation
 
 pip install opencv-python
 
-## Basic_Inage_Loading_&_Display
+## BasicImageLoading
+
+using opencv to read and display an image file
 
