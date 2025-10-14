@@ -17,7 +17,7 @@ img = cv2.imread(img_path) # load image, set in BGR by default
 
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB) # convert to RGB
 
-# both BGR and RBG has color channels in range 0-255 per channel on scale
+# both BGR and RBG have color channels in range 0-255 per channel on scale
 # (255, 255, 255) or (0, 0, 0) or (255, 50, 100) or (0, 255, 0) to form a color
 
 img_hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV) # convert to HSV
