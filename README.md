@@ -19,6 +19,51 @@ The **Vision Tuesdays** series aims to:
 
 ---
 
+## 📅 Weekly Progress – Vision Tuesdays
+
+### ✅ Week 1 – Introduction to Image Basics  
+✔ Loading images using `cv2.imread()`  
+✔ Displaying images using `cv2.imshow()`  
+✔ Converting to grayscale  
+✔ Saving processed images  
+
+### ✅ Week 2 – Working with Video Streams  
+✔ Reading and displaying video files  
+✔ Streaming live video from webcam  
+✔ Adding program terminators  
+✔ Saving live webcam feed as a video  
+
+### ✅ Week 3 – Understanding Color and Image Properties  
+This week introduces how computers represent and manipulate colors using OpenCV.
+
+✔ **Color Spaces in OpenCV**  
+- Difference between BGR and RGB  
+- Introduction to **HSV** (Hue, Saturation, Value)  
+- Introduction to **LAB** color space  
+- Converting between color formats using `cv2.cvtColor()`
+
+✔ **Image Shape & Dimensions**  
+- Extracting height, width, and color channels using `.shape`
+
+✔ **Flipping Images**  
+- Horizontal flip  
+- Vertical flip  
+- Both-axis flipping using `cv2.flip()`
+
+---
+
+### 🔜 Coming Next – Week 4: Geometric Transformations  
+Next Tuesday we’ll explore **geometric image transformations**, including:
+🔹 Resizing images  
+🔹 Rotating images  
+🔹 Image interpolation methods  
+
+Stay tuned — we’re building a strong foundation for **edge detection, segmentation, and object detection** coming soon! 🚀
+
+---
+
+---
+
 ## 🧩 Learning Roadmap  
 
 This series is organized in progressive steps — each week introduces a new concept and real working code.  
