@@ -14,7 +14,7 @@ img_flip_H = cv2.flip(img, 1) # flip() change sides of pixels in an image
 img_flip_V = cv2.flip(img, 0) # flip() with 0 passed, flip image around x-axis("image width")
 
 img_flip_Both = cv2.flip(img, -1) #flip() with -1 passed, flip image around both y-axis and x-axis
-                                  # if flip the image first in y-axis, 
+                                  # it flips the image first in y-axis, 
                                   # then it flips the already y-axis flipped image in x-axis
                                   # making it a both flip
 #-------------------------------------------------------------------------------
