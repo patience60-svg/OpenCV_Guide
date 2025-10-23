@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Library-green?logo=opencv)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Vision Tuesdays](https://img.shields.io/badge/Vision%20Tuesdays-Open%20Source-blue)
+
+
 # 🧠 Vision Tuesdays – Learn Computer Vision with OpenCV  
 
 ### 🎥 *An Open-Source Series for Beginners in Computer Vision, Image Processing, and AI Development*  
