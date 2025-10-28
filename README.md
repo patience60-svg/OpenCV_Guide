@@ -35,6 +35,7 @@ Explore all topics covered so far:
 | 🎥 **Video Processing** | Read, stream, and save videos | [02_Video_Processing](./02_Video_Processing) |
 | 🎨 **Image Properties** | Color spaces, shape, and flipping | [03_Image_Properties](./03_Image_Properties) |
 | 🧩 **Geometric Transformations** | Resize, scale, and interpolate images | [04_Geometric_Transformations](./04_Geometric_Transformations) |
+| 🧱 **Drawing Shapes** | Create and visualize geometric shapes using OpenCV | [05_Drawing_Shapes](./05_Drawing_Shapes) |
 
 💡 *Each folder contains beginner-friendly code, explanations, and examples — designed to make learning Computer Vision hands-on and fun.*
 
