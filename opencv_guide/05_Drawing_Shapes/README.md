@@ -13,9 +13,9 @@ This week’s Vision Tuesdays topic introduces **shape drawing functions in Open
 ### 📂 Included Files
 | File | Description |
 |------|--------------|
-| `code_13.py` | Draw lines using OpenCV |
-| `code_14.py` | Draw circles |
-| `code_15.py` | Explore coordinates and thickness |
+| `code_13.py` | Explore canva images |
+| `code_14.py` | Draw lines using OpenCV |
+| `code_15.py` | Draw circles |
 | `code_16.py` | Draw rectangles and squares |
 
 💡 *These basic drawing operations are the foundation for computer vision annotations and visualization tools in AI applications.*
